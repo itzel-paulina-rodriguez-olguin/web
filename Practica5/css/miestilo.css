@@ -3,7 +3,7 @@
     margin-top: 50px;
 
 }
-         .tarjeta.cabecera{
+         .tarjeta .cabecera{
             display: flex;
             padding: 10px;
             border: rgb(48, 30, 56) solid;
