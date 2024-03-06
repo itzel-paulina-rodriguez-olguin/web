@@ -8,6 +8,7 @@
             padding: 10px;
             border: rgb(48, 30, 56) solid;
             border-radius: 10% 10% 0% 0%;
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
          }
          .tarjeta .cabecera img{
@@ -25,6 +26,7 @@
          .tarjeta .cuerpo{
             text-align: justify;
             font-size: 18px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             padding: 10px;
             border: rgb(48, 30, 56) solid;
          }
@@ -44,6 +46,7 @@
             margin-bottom: 30px;
             padding-right: 10px;
             margin-right: 10px;
+            font-family: 'Courier New', Courier, monospace;
 
          }
 .contenedor{
