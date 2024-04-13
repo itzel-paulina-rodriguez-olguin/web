@@ -1,0 +1,101 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    overflow: hidden;
+    flex-direction: column; 
+    justify-content: center;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #4ECDC4;
+    text-align: center;
+    justify-content: center;
+}
+
+header {
+    display: flex; 
+    flex-direction: column; 
+}
+
+nav {
+    background: #4ECDC4;
+    height: 60px; 
+    width: 100%;
+    padding-top: 10px;
+}
+
+label.logo {
+    color: white;
+    font-size: 45px;
+    line-height: 80px;
+    padding: 0 20px;
+    font-weight: bold;
+    justify-content: center;
+}
+nav ul {
+    float: right;
+    margin-right: 20px;
+    border-radius: 5px;
+    border: #0aafa4 2px solid;
+    background: #0aafa4;
+    display: flex;
+    justify-content: center;
+    background: #0aafa4;
+}
+
+nav ul li {
+    display: inline-block;
+    line-height: 60px;
+    margin: 0 5px;
+}
+
+nav ul li a {
+    color: rgb(236, 241, 241);
+    font-size: 13px;
+}
+
+.parrafo {
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    padding: 20px 0;
+}
+.cuerpo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px 0;
+    align-items: center;
+}
+.input-box{
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    padding-bottom: 15px;
+    font-size: 22px;
+}
+.input-box input{
+    height: 40px;
+    width: 95%;
+    padding: 0 10px;
+    border-radius: 5px;
+    border: 1px solid #0aafa4;
+    outline: none;
+}
+.input-box .textarea{
+    width: 95%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #0aafa4;
+    outline: none;
+    flex-wrap: wrap;
+    justify-content: center;
+}
