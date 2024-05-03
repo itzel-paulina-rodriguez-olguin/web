@@ -1,0 +1,52 @@
+.nav{
+    background-color: rgb(147, 64, 72);
+    width: 1260px;
+    height: 40px;
+}
+.texto{
+    color: rgb(250, 240, 240);
+}
+.cabecera{
+    background-color: rgb(216, 212, 211);
+    width: 1260px;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.cuerpo{
+    background-color: rgb(216, 212, 211);
+    width: 1260px;
+    height: 400px;
+}
+.pie{
+    background-color: rgb(216, 212, 211);
+    width: 1260px;
+    height: 100px;
+}
+.izquierdo{
+    float: left;
+}
+.derecho{
+    float: right;
+}
+.columna1{
+    background-color: rgb(147, 64, 72);
+    width: 350px;
+    height: 50px;
+    text-align: center;
+    
+}
+.foto{
+    background-color: rgb(216, 212, 211);
+    width: 500px;
+}
+.form-select{
+    width: 250px;
+}
+.navbar{
+    width: 300px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+}
+.navbar-brand{
+    font-size: 16px;
+}
