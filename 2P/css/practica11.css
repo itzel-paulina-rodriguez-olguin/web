@@ -17,7 +17,7 @@
 .cuerpo{
     background-color: rgb(216, 212, 211);
     width: 1260px;
-    height: 600px;
+    height: 500px;
     
 }
 .pie{
@@ -74,7 +74,7 @@
 }
 .formulario{
     text-align: left;
-    height: 500px;
+    height: 450px;
 }
 .contenedor{
     display: flex;
@@ -123,4 +123,10 @@
 .contenedor6 .form-control{
     width: 300px;
     height: 40px;
+}
+.contenedor7{
+    align-content: center;
+}
+.text-small{
+    font-size: 12px;
 }
