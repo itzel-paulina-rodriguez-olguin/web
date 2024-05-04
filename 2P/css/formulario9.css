@@ -21,14 +21,20 @@
 
 }
 .wit{
-    width: 40%;
+    width: 100%;
+    max-width: 600px;
 }
 .wit1{
+    max-width: 1440px;
     width: 100%;
+    margin: 0 auto;
 }
 .wit2{
-    width: 400px;
+    margin-left: 600px;
+    text-align: center;
 }
 .wit3{
-    width: 70px;
+    max-width: 70px;
+    width: 100%;
+    height: 50px;
 }
