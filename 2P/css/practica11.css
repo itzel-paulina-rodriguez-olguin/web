@@ -129,3 +129,37 @@
 .text-small{
     font-size: 12px;
 }
+@media only screen and (max-width: 1024px) {
+    /* Estilos específicos para tablet y celular */
+    .nav {
+        width: 100%;
+    }
+
+    .cabecera {
+        width: 100%;
+    }
+
+    .cuerpo {
+        width: 100%;
+        padding: 10px; 
+    }
+
+    .izquierdo,
+    .derecho {
+        width: 100%;
+        margin-bottom: 10px; 
+    }
+
+    .columna1 {
+        padding: 5px; 
+        margin-bottom: 10px; 
+    }
+
+    .formulario {
+        padding: 10px;
+    }
+
+    .form-control {
+        width: 100%;
+        margin-bottom: 5px;}
+}
